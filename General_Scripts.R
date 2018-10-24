@@ -1,5 +1,5 @@
 library('png')
-setwd("~/../Desktop/Chett Blackmail Pictures/Compression Step 2/")
+setwd("~")
 
 
 ## Compare before and After matrix
